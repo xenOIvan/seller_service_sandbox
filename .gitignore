@@ -1,3 +1,4 @@
+/Docker/mysql/*.pem
 
 ###> symfony/framework-bundle ###
 /.env.local
